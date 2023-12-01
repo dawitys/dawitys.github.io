@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.akil_mobile",
-    "sha256_cert_fingerprints":
-    ["49:63:38:78:A8:CE:ED:1B:D6:73:C6:0F:0E:5A:9E:D3:7C:22:7C:D3:4E:DA:FA:63:DC:7B:56:12:CB:99:C3:A0"]
-  }
-}]
